@@ -20,7 +20,7 @@ const List = (props)  => {
       })
   }, [])
 
-  if(error == 1){
+  if(error == 0){
     return (
       <div className="List">
         <ul>
