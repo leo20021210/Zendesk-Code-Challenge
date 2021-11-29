@@ -13,3 +13,8 @@ This is a express-based backend and react-based frontend project, if you follow 
 "http://localhost:3001/ticket/{id}" to see ticket with specific id
 "http://localhost:3001/page/{page}" to see 25 tickets in one page, the next page number, and the previous page number.
 The backend deals with all kinds of errors, but they are just displaying plain json instead of a more elegant listing. 
+
+
+## Defects in the program that is not dealt with because of lack of time: (If there is more time, I am more than capable of solving them)
+I should use .env to store my access token in order to make the tocken avoid git version control.
+I should add more css files to decorate the frontend.
